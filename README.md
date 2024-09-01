@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zohre-nz
-- 👀 I’m interested in ui/ux
-- 🌱 I’m currently learning Figma
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning 3D web
 - 💞️ I’m looking to collaborate on app ui
 
 
